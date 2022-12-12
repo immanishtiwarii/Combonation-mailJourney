@@ -1,0 +1,198 @@
+body {
+  font-family: "Poppins"
+}
+
+@media(max-width:768px) {
+ .col-md-6 {
+   width: 100% !important;
+ }
+
+}
+
+.header {
+  display: flex;
+}
+
+.s-media {
+  display:flex;
+}
+
+.s-img {
+  margin-left: 1.2rem;
+  margin-bottom: 1px;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+  font-family: "Poppins"
+}
+
+p {
+  font-size: 14px;
+}
+
+.hr {
+  border:2.5px solid #c9c9c9;
+}
+
+.button button {
+  background-color : #fe9e2d;
+  color:#ffffff
+}
+
+.heading h3 {
+  font-weight: 500;
+}
+
+/* account css */
+
+.visit {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+.visit a {
+  text-decoration: none;
+}
+
+.button {
+  display: flex;
+}
+
+.customercare {
+  color: #fe9e2d;
+}
+
+/* thankyou css */
+
+.logo1{
+  display: flex;
+  padding-top: 1rem;
+}
+
+.logo1 p {
+  margin-left: auto;
+  margin-top: 1rem;
+  font-weight: 500;
+}
+
+.order-summary {
+  padding-top: 2.5rem;
+}
+
+.order-img {
+  display: flex;
+  margin-top: 1.5rem;
+}
+
+.order-img .order-details p {
+  margin-left: 2rem;
+}
+
+.order-img .order-details {
+  display: flex;
+}
+
+.text-end .subtotal {
+  display: flex;
+}
+
+.text-end .subtotal p {
+  margin-left: auto;
+  margin-right: 9rem;
+}
+
+/* ontheway css */
+
+.tracking-number {
+  margin-top: 1.6rem;
+}
+
+.tracking-number p a {
+  text-decoration: none;
+}
+
+/* beendelivered css */
+
+.been-delivered p a {
+  text-decoration: none;
+  color:  #fe9e2d;
+}
+
+
+/* feedback css */
+
+.download-text p {
+  margin-bottom: -1px;
+  margin-left: 1rem;
+}
+
+.download-img {
+  display: flex;
+}
+.stt {
+  margin-left: auto;
+}
+
+.download-img .play-store {
+  margin-left: .3rem;
+}
+
+.we-did p a {
+  text-decoration: none;
+  color: #fe9e2d;
+}
+
+.share-feedback h5 {
+  font-weight: 400;
+}
+
+.custom p a {
+  text-decoration: none;
+  color: #fe9e2d;
+}
+
+/* Poster css */
+
+.poster {
+  display: flex;
+}
+
+.exclusive h4 {
+  font-weight: 400;
+  padding-top: 1rem;
+  padding-bottom: .5rem;
+}
+
+.exclusive-img {
+  margin-left: 1rem;
+}
+
+.myoc img {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.bundles h4 {
+  font-weight: 400;
+}
+
+.bundles strong {
+  color: #fe9e2d
+}
+
+.bundles-img {
+  margin-left: 3rem;
+}
+
+.picks h5 {
+  font-weight: 400;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.picks-img {
+  padding-bottom: 2rem;
+}
+
+.grid {
+  padding-bottom: 1rem;
+}
